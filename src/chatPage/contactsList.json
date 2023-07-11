@@ -1,0 +1,121 @@
+[{
+        "name": "John",
+        "lastMessage": "Hello there!",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Emily",
+        "lastMessage": "What's up?",
+        "unViewed": "3",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Michael",
+        "lastMessage": "I'll be there soon.",
+        "unViewed": "0",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Sarah",
+        "lastMessage": "Have you seen the latest movie?",
+        "unViewed": "5",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "David",
+        "lastMessage": "Let's grab dinner tonight.",
+        "unViewed": "1",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Jennifer",
+        "lastMessage": "Can you help me with this?",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Matthew",
+        "lastMessage": "I'm excited for the trip!",
+        "unViewed": "0",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Emma",
+        "lastMessage": "Where are you?",
+        "unViewed": "4",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Daniel",
+        "lastMessage": "Congratulations on your new job!",
+        "unViewed": "3",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Olivia",
+        "lastMessage": "Let's meet at the park.",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "John",
+        "lastMessage": "Hello there!",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Emily",
+        "lastMessage": "What's up?",
+        "unViewed": "3",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Michael",
+        "lastMessage": "I'll be there soon.",
+        "unViewed": "0",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Sarah",
+        "lastMessage": "Have you seen the latest movie?",
+        "unViewed": "5",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "David",
+        "lastMessage": "Let's grab dinner tonight.",
+        "unViewed": "1",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Jennifer",
+        "lastMessage": "Can you help me with this?",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Matthew",
+        "lastMessage": "I'm excited for the trip!",
+        "unViewed": "0",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Emma",
+        "lastMessage": "Where are you?",
+        "unViewed": "4",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Daniel",
+        "lastMessage": "Congratulations on your new job!",
+        "unViewed": "3",
+        "profileUrl": "waiting.png"
+    },
+    {
+        "name": "Olivia",
+        "lastMessage": "Let's meet at the park.",
+        "unViewed": "2",
+        "profileUrl": "waiting.png"
+    }
+]
